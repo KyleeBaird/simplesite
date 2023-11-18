@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  background: url(https://github.com/KyleeBaird/simplesite/blob/main/assets/img/kylee2.JPG?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(https://github.com/KyleeBaird/simplesite/blob/main/assets/img/kylee2.png?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
