@@ -483,6 +483,7 @@ section {
   min-height: auto;
   background: url(https://github.com/KyleeBaird/simplesite/blob/main/assets/img/pumpkin.jpeg?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
+  background-size: cover;
 }
 #about .about-container .content {
   background: #fff;
